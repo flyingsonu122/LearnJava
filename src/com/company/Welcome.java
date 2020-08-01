@@ -15,7 +15,7 @@ public class Welcome {
         System.out.println("Sonu kumar kushwaha");
     }
     public static void sayAge(){
-        System.out.println(18);
+        System.out.println(19);
     }
     public static void add(int a,int b){
         System.out.println(a + b);
